@@ -26,8 +26,7 @@ I also explore the world of Web design by creating small mockups and social medi
 
 ### Languages and Skillset:
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,react,ts,next,git,css,scss,tailwind,bootstrap,figma,ps,php,nodejs,mysql,&theme=light)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=html,js,react,ts,next,git,css,scss,tailwind,bootstrap,figma,ps,php,nodejs,mysql" alt="Frontend Developer skills">
 
 ### My Absolute Favorites:
 
