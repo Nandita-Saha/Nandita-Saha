@@ -41,5 +41,17 @@ I also explore the world of Web design by creating small mockups and social medi
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
+### Projects and Dev Stuffs:
 
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10</li>
+	      <li><b>Browser: </b> Chrome, Edge, Firefox</li>	    
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, XAMPP </li>
+	    <li><b>To Stay Updated:</b> Twitter, Youtube and Hacker News</li>
+	</ul>
+</details>
 
